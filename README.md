@@ -1,5 +1,6 @@
 # tkinterPy
 Es un formulario simple con tkinter hecho en python
+Proyecto desarrollado durante el 3° Semestre
 
 Formulario de entrada
 
